@@ -1,0 +1,33 @@
+container { 
+margin 10px;
+color: green;
+}
+body {
+  margin: 10px;
+  widht: 10px;
+  background-color: r
+}
+
+div {
+  margin: 5px;
+  width: 220px;
+  height: 220px;
+  background-color: orange;
+  text-color: green;
+ 
+}
+  
+  
+img {
+  
+ 
+  widht: 19px;
+  height: 199px;
+  border: black;
+  border-radius: 50%;
+  
+  background-color: green;
+}
+.container {
+  flex-flow: column wrap;
+}
